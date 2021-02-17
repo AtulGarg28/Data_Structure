@@ -1,7 +1,6 @@
 package DynamicArray;
 
 import java.util.Arrays;
-import java.util.Iterator;
 
 public class DynamicArrayMain<T> implements Iterable<T> {
     private T[] arr;
